@@ -1,1 +1,3 @@
-some data
+ome data
+
+adding some extra data in feature 3, deleting some old data to see conflict with master
